@@ -1,2 +1,2 @@
 test bla bla
-zmiany zmiany
+zmiany zmiany juz
